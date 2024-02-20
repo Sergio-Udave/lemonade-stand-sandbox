@@ -37,6 +37,7 @@ function lemonade_stand_create_menu()
         99
     );
 
+    /*
     add_submenu_page(
         'lemonade-stand',
         'About the Lemonade Stand Inc. Plugin',
@@ -45,6 +46,7 @@ function lemonade_stand_create_menu()
         'lemonade-stand-about',
         'lemonade_stand_about_page'
     );
+    */
 }
 
 // Create the settings page
